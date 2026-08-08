@@ -20,7 +20,7 @@
 (2)<code>vite</code> environment,the dev version is v8.1 <br />
 (3)<code>React</code>,the dev version is v19.0 <br />
 (4)<code>TypeScript</code>,v7.0 <br />
-(5<code>)Tailwind CSS</code>,v3.4 <br />
+(5)<code>Tailwind CSS</code>,v3.4 <br />
 (6)<code>Axios</code>,v1.18//API requests <br />
 (7)<code>**TipTap**</code>,v3.28//Article edit(include from,photo,color,align,link,code) <br />
 (8)<code>Lowlightv</code>,the dev version is v3.3 <br />
