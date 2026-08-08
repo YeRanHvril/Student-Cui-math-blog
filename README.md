@@ -11,17 +11,17 @@
 ## 环境要求
 
 (1)<code>node.js</code>,the recommend version is v24.16.0 <br />
-(2)vite environment,the dev version is v8.1 <br />
-(3)React,the dev version is v19.0 <br />
-(4)TypeScript,v7.0 <br />
-(5)Tailwind CSS,v3.4 <br />
-(6)Axios,v1.18//API requests <br />
-(7)**TipTap**，v3.28//文章编辑（含表格、图片、颜色、对齐、链接、代码块） <br />
-(8)Lowlight,the dev version is v3.3 <br />
-(9)**MathLive**,v0.110,LaTex formule support <br />
-(10)KaTeX,v0.18 <br />
-(11)**MathJax**,the core tool,v4.1//SVG 公式渲染(used to copy to other edit like wechat public platform,zhihu and so on) <br />
-(12)Express:v4.21 <br />
+(2)<code>vite</code> environment,the dev version is v8.1 <br />
+(3)<code>React</code>,the dev version is v19.0 <br />
+(4)<code>TypeScript</code>,v7.0 <br />
+(5<code>)Tailwind CSS</code>,v3.4 <br />
+(6)<code>Axios</code>,v1.18//API requests <br />
+(7)<code>**TipTap**</code>，v3.28//文章编辑（含表格、图片、颜色、对齐、链接、代码块） <br />
+(8)<code>Lowlightv,the dev version is v3.3 <br />
+(9)<code>**MathLive**</code>,v0.110,LaTex formule support <br />
+(10)<code>**KaTeX**</code>,v0.18 <br />
+(11)<code>**MathJax**</code>,the core tool,v4.1//SVG 公式渲染(used to copy to other edit like wechat public platform,zhihu and so on) <br />
+(12)<code>Express</code>:v4.21 <br />
 (...)Others,let 'npm install' to done it. <br />
 
 ## 启动方法
