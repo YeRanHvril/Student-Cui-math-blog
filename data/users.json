@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "_id": "1",
+      "username": "admin",
+      "password": "$2a$10$ZQ4JsmxmbcphDccr5LgY3OrO/tI93i4T61aCrPadh1Y4I3lUHQ5o6",
+      "email": "admin@math-blog.com",
+      "createdAt": "2026-08-02T10:25:21.947Z",
+      "updatedAt": "2026-08-08T02:09:49.476Z"
+    }
+  ],
+  "nextId": 1
+}

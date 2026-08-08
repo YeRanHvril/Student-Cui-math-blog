@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "_id": "1",
+      "name": "测试Key",
+      "key": "sk-962f356eb208163100a322c3091e27a4",
+      "status": "active",
+      "callCount": 5,
+      "lastUsedAt": "2026-08-06T03:51:18.287Z",
+      "dailyStats": {
+        "2026-08-06": 5
+      },
+      "endpointStats": {
+        "/api/public/posts": 2,
+        "/api/public/all": 1,
+        "/api/public/settings": 1,
+        "/api/public/tags": 1
+      },
+      "createdAt": "2026-08-06T03:51:18.033Z",
+      "updatedAt": "2026-08-06T03:51:18.287Z"
+    }
+  ],
+  "nextId": 1
+}
