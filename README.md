@@ -10,7 +10,7 @@
 
 ## 环境要求
 
-(1)node.js,the recommend version is v24.16.0 <br />
+(1)<code>node.js</code>,the recommend version is v24.16.0 <br />
 (2)vite environment,the dev version is v8.1 <br />
 (3)React,the dev version is v19.0 <br />
 (4)TypeScript,v7.0 <br />
