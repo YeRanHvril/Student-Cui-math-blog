@@ -1,6 +1,12 @@
 # 崔同学的数学博客[开源项目]
 > 一款基于node.js开发的数学博客系统，对数学公式有很高的支持度
 
+立刻体验：<https://hvril.cn/>
+<img width="1692" height="618" alt="image" src="https://github.com/user-attachments/assets/6eb46fb2-ae7a-4dc9-bd88-e49c1b5705f6" />
+<img width="1531" height="601" alt="image" src="https://github.com/user-attachments/assets/7100b3d1-e531-4699-9e14-f6c938ef8712" />
+<img width="1472" height="801" alt="image" src="https://github.com/user-attachments/assets/0b88b298-07d7-4491-aa28-047afd05e373" />
+
+
 <p align = "left">
   <img src="./github_images/auth.png" width="10%"/>
   <img src="./github_images/update.png" width="10%"/>
