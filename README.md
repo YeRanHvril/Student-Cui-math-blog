@@ -8,10 +8,10 @@
 
 
 <p align = "left">
-  <img src="./github_images/auth.png" width="10%"/>
-  <img src="./github_images/update.png" width="10%"/>
-  <img src="./github_images/Tool.png" width="10%"/>
-  <img src="./github_images/version.png" width="10%"/>
+  <img src="./github_images/auth.png" width="15%"/>
+  <img src="./github_images/update.png" width="15%"/>
+  <img src="./github_images/Tool.png" width="15%"/>
+  <img src="./github_images/version.png" width="15%"/>
 </p>
 
 ## 环境要求
